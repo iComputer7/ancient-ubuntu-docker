@@ -1,0 +1,5 @@
+deb http://old-releases.ubuntu.com/ubuntu hardy main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu hardy-backports main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu hardy-proposed main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu hardy-security main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu hardy-updates main multiverse restricted universe

@@ -1,0 +1,5 @@
+deb http://old-releases.ubuntu.com/ubuntu jaunty main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu jaunty-backports main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu jaunty-proposed main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu jaunty-security main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu jaunty-updates main multiverse restricted universe

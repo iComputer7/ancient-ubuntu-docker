@@ -1,0 +1,5 @@
+deb http://old-releases.ubuntu.com/ubuntu dapper main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu dapper-backports main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu dapper-proposed main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu dapper-security main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu dapper-updates main multiverse restricted universe
